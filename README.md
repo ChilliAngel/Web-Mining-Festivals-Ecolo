@@ -1,6 +1,6 @@
 # Exploration du discours écologique dans les sites de festivals (Sujet 9)
 
-Ce dépôt contient le code source et les données structurées pour l'analyse du Web Mining des engagements environnementaux des festivals de musique. Ce projet a été réalisé dans le cadre du cours **MLSMM2153 : Web Lens** (2025-2026).
+Ce dépôt contient le code source et les données structurées pour l'analyse du Web Mining des engagements environnementaux des festivals de musique. Ce projet a été réalisé dans le cadre du cours **MLSMM2153 : Web Mining** (2025-2026).
 
 ## Présentation du projet
 L'objectif est d'analyser comment les organisateurs de festivals intègrent la durabilité dans leur communication. Nous identifions spécifiquement les **actions concrètes** par rapport aux **promesses vagues** via des techniques de Text Mining et de Link Analysis.
