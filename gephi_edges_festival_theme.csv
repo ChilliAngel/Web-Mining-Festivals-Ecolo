@@ -1,0 +1,51 @@
+Source,Target,Weight,Type
+Boom Festival,Déchets,2.0,Undirected
+Boom Festival,Énergie,2.0,Undirected
+Boom Festival,Eau,2.0,Undirected
+Boom Festival,Gouvernance,2.0,Undirected
+Burning Man,Déchets,136.0,Undirected
+Burning Man,Énergie,122.0,Undirected
+Burning Man,Alimentation,22.0,Undirected
+Burning Man,Social,18.0,Undirected
+Coachella,Mobilité,12.0,Undirected
+Coachella,Social,7.0,Undirected
+Coachella,Alimentation,3.0,Undirected
+Dour Festival,Déchets,23.0,Undirected
+Dour Festival,Mobilité,14.0,Undirected
+Dour Festival,Social,14.0,Undirected
+Dour Festival,Gouvernance,9.0,Undirected
+Esperanzah!,Déchets,7.0,Undirected
+Esperanzah!,Gouvernance,7.0,Undirected
+Esperanzah!,Social,6.0,Undirected
+Esperanzah!,Mobilité,4.0,Undirected
+Glastonbury Festival,Mobilité,6.0,Undirected
+Glastonbury Festival,Social,6.0,Undirected
+Glastonbury Festival,Gouvernance,6.0,Undirected
+Hellfest,Social,38.0,Undirected
+Hellfest,Gouvernance,36.0,Undirected
+Hellfest,Mobilité,22.0,Undirected
+Hellfest,Eau,20.0,Undirected
+Reading & Leeds,Déchets,28.0,Undirected
+Reading & Leeds,Alimentation,8.0,Undirected
+Reading & Leeds,Énergie,5.0,Undirected
+Reading & Leeds,Mobilité,3.0,Undirected
+Rock Werchter,Déchets,32.0,Undirected
+Rock Werchter,Mobilité,28.0,Undirected
+Rock Werchter,Alimentation,22.0,Undirected
+Rock Werchter,Social,17.0,Undirected
+Rock am Ring,Déchets,14.0,Undirected
+Rock am Ring,Social,9.0,Undirected
+Rock am Ring,Gouvernance,8.0,Undirected
+Rock am Ring,Alimentation,7.0,Undirected
+Splendour in the Grass,Gouvernance,2.0,Undirected
+Sziget Festival,Énergie,2.0,Undirected
+Tomorrowland,Mobilité,30.0,Undirected
+Tomorrowland,Déchets,19.0,Undirected
+Tomorrowland,Alimentation,14.0,Undirected
+Tomorrowland,Social,5.0,Undirected
+Ultra Music Festival,Déchets,44.0,Undirected
+Ultra Music Festival,Alimentation,31.0,Undirected
+Ultra Music Festival,Énergie,16.0,Undirected
+Ultra Music Festival,Gouvernance,10.0,Undirected
+Vieilles Charrues,Social,4.0,Undirected
+Vieilles Charrues,Mobilité,2.0,Undirected

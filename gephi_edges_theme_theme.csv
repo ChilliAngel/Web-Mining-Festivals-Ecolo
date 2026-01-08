@@ -1,0 +1,9 @@
+Source,Target,Weight,Type
+Mobilité,Social,0.7630709504539045,Undirected
+Déchets,Énergie,0.9507899522302093,Undirected
+Eau,Gouvernance,0.9192842152445231,Undirected
+Eau,Social,0.9139431432875736,Undirected
+Alimentation,Déchets,0.7905766053475054,Undirected
+Alimentation,Eau,0.7604260953910592,Undirected
+Alimentation,Mobilité,0.6435679544822113,Undirected
+Gouvernance,Social,0.9422814402486018,Undirected

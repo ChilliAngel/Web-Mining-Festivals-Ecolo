@@ -1,0 +1,18 @@
+Source,Target,Weight,Type
+Boom Festival,Ultra Music Festival,0.8498073227650647,Undirected
+Burning Man,Reading & Leeds,0.8432387337294817,Undirected
+Coachella,Vieilles Charrues,0.8444566448244771,Undirected
+Coachella,Tomorrowland,0.7917810100299864,Undirected
+Coachella,Glastonbury Festival,0.7718222405172681,Undirected
+Dour Festival,Esperanzah!,0.9348137958142119,Undirected
+Dour Festival,Rock Werchter,0.8851981107932146,Undirected
+Electric Daisy Carnival,Sziget Festival,1.0,Undirected
+Electric Daisy Carnival,Montreux Jazz Festival,0.7071067811865476,Undirected
+Esperanzah!,Hellfest,0.9240710663574616,Undirected
+Esperanzah!,Rock am Ring,0.8750482537864369,Undirected
+Glastonbury Festival,Hellfest,0.839012120426049,Undirected
+Montreux Jazz Festival,Sziget Festival,0.7071067811865476,Undirected
+Reading & Leeds,Ultra Music Festival,0.924627893089865,Undirected
+Rock Werchter,Tomorrowland,0.8989408652213554,Undirected
+Rock Werchter,Rock am Ring,0.8558602607702602,Undirected
+Rock am Ring,Ultra Music Festival,0.8700905260524711,Undirected
