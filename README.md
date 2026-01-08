@@ -30,10 +30,16 @@ Conformément aux consignes de réplicabilité:
 * **Link Analysis** : Exportation vers Gephi pour l'analyse des centralités (PageRank, Betweenness).
 
 ## Contenu du dépôt
-* `Projet_Web_Mining_GroupeX.ipynb` : Notebook principal contenant tout le pipeline.
-* `gephi_nodes.csv` & `gephi_edges.csv` : Données pour l'importation directe dans Gephi.
+* `Projet_Web_Mining_Groupe9.ipynb` : Notebook principal contenant tout le pipeline.
+   * `gephi_edges_festival_festival.csv`  
+   * `gephi_edges_festival_theme.csv`  
+   * `gephi_edges_theme_theme.csv`  
+   * `gephi_nodes_festival_festival.csv`  
+   * `gephi_nodes_festival_theme.csv`  
+   * `gephi_nodes_theme_theme.csv`  
+   : Données pour l'importation directe dans Gephi.
 * `festival_pages_dataset.csv` : Corpus structuré après nettoyage.
 
-## Auteurs (Groupe X)
+## Auteurs (Groupe 9)
 * Charles-Pirlot Diégo 08112000
 * Valère Scheuren
